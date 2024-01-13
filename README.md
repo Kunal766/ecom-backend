@@ -2,8 +2,8 @@
 # MERN Stack E-commerce Project - Backend Repository
 
 🔥 Code Repositories:
-- React [frontend] -  https://github.com/Kunal766/MERN-ecommerce-Frontend
-- Node [backend] - https://github.com/Kunal766/MERN-ecommerce-backend
+- React [frontend] -  https://github.com/Kunal766/ecom-frontend
+- Node [backend] - https://github.com/Kunal766/ecom-backend
 
 
 🔥 Features :
